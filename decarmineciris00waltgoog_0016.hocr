@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./decarmineciris00waltgoog_0016.png"; bbox 0 0 3134 5082; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 219 1328 1275 1421">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 219 1328 1275 1421">
+     <span class='ocr_line' id='line_1_1' title="bbox 219 1328 1275 1421; baseline 0 -21"><span class='ocrx_word' id='word_1_1' title='bbox 219 1333 341 1404; x_wconf 86' lang='lat' dir='ltr'>VIRO</span> <span class='ocrx_word' id='word_1_2' title='bbox 367 1329 664 1402; x_wconf 85' lang='lat' dir='ltr'>DOCTISSIMO</span> <span class='ocrx_word' id='word_1_3' title='bbox 695 1331 953 1421; x_wconf 83' lang='lat' dir='ltr'><strong>EIDEMQUE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 976 1328 1275 1401; x_wconf 81' lang='lat' dir='ltr'>ACUTISSIMO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 414 1653 1080 1762">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 414 1653 1080 1762">
+     <span class='ocr_line' id='line_1_2' title="bbox 414 1653 1080 1762; baseline 0.003 -4"><span class='ocrx_word' id='word_1_5' title='bbox 414 1653 759 1760; x_wconf 83' lang='lat' dir='ltr'>AEMILIO</span> <span class='ocrx_word' id='word_1_6' title='bbox 811 1655 1080 1762; x_wconf 84' lang='lat' dir='ltr'>EGGER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 470 2225 1027 2298">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 470 2225 1027 2298">
+     <span class='ocr_line' id='line_1_3' title="bbox 470 2225 1027 2298; baseline 0.004 -4"><span class='ocrx_word' id='word_1_7' title='bbox 470 2238 554 2295; x_wconf 81' lang='lat' dir='ltr'>Hoc</span> <span class='ocrx_word' id='word_1_8' title='bbox 574 2225 828 2298; x_wconf 82' lang='lat' dir='ltr'><strong>OPU&#39;SCULUM</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 850 2241 1027 2297; x_wconf 75' lang='lat' dir='ltr'><strong>DEDmAT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 404 2545 1241 2618">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 404 2545 1241 2618">
+     <span class='ocr_line' id='line_1_4' title="bbox 404 2545 1241 2618; baseline 0.005 -5"><span class='ocrx_word' id='word_1_10' title='bbox 404 2545 867 2618; x_wconf 87' lang='lat' dir='ltr'>REVERENTISSIMUS</span> <span class='ocrx_word' id='word_1_11' title='bbox 891 2547 1095 2618; x_wconf 82' lang='lat' dir='ltr'><strong>AUCTOR</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1240 2571 1241 2576; x_wconf 48' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1572 5082">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1572 5082">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1572 5082; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1572 5082; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
